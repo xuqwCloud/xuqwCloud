@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 😄 [X北辰北个人博客](http://www.xbeichenbei.com/)
 
+⚡微信公众号：WebGIS应用开发
