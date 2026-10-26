@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 [X北辰北个人博客](http://www.xbeichenbei.com/)
+😄 [X北辰北个人博客](https://blog.csdn.net/qq_35117024?type=blog)
 
-⚡微信公众号：亿图胜千言
+⚡微信公众号：去码头整点薯条intp
 
 ✨ 希望得到你的小星星作为鼓励~
+
